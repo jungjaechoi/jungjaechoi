@@ -18,5 +18,5 @@
 
 <br>
 
-:page_with_curl: [RESUME](https://velog.io/@www8989)<br>
-:pencil2: [BLOG](https://www.notion.so/0cbb11e47ef34a7aabbe82ad398756e3)
+:page_with_curl: [RESUME](https://www.notion.so/0cbb11e47ef34a7aabbe82ad398756e3)<br>
+:pencil2: [BLOG](https://velog.io/@www8989)
