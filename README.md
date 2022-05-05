@@ -1,5 +1,5 @@
 
-### Server Developer, 끈임없이 배우는 개발자
+### Server Developer, 끊임없이 배우는 개발자
 
 ---
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
