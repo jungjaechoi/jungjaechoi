@@ -22,6 +22,7 @@
 
 
 * [**카이스트 몰입캠프**](https://madcamp.io/) 2021.06.30 ~ 2021.7.30
+* [**띵스플로우 인턴**](https://techblog.thingsflow.com/tech/%EB%8D%B0%EB%B8%8C%EC%9D%B8%ED%84%B4%EC%8B%AD-4%EA%B8%B0-Configuration_Distribution_Admin_Page_%EB%A7%8C%EB%93%A4%EA%B8%B0/) 2022.07.04 ~ 2022.12.31
 
 <br>
 
